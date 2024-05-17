@@ -1,13 +1,11 @@
-### Hi there 👋, Rae
-#### Software Engineer and Machine Learning Engineer
-I'm proficient in building full-stack website using Next.js;
-I have also worked as a Machine Learning engineer to build machine learning pipelines. 
--  Machine Learning pipeline using computer vision to detect and diagnose Parkinson's Disease severity
-- Summarizarition pipeline built on LLM
+### Hi there 👋, I'm Rae
+#### Machine Learning Engineer
+I work as a machine learning engineer to develop and deploy machine learning pipelines. 
+- Computer Vision: Detect and diagnose Parkinson's disease severity
+- LLM: Toxicity detection | Patients notes summarization
 
-Skills: Machine Learning/ Deep learning/ Computer Vision/ Natural Language Processing/ NEXT JS / REACT / JS / HTML / CSS
+Skills: Machine Learning/ Deep learning/ Computer Vision/ Natural Language Processing/ NEXT JS / REACT JS
 
-- 🔭 I’m currently working on this page. 
 
 
 
